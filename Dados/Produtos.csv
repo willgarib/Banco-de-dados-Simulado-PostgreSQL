@@ -1,0 +1,96 @@
+id;nome;Categoria;preco_unitario;marca
+1;Café;Doces;16.62;Marca_4
+2;Cereais;Higiene;9.44;Marca_1
+3;Achocolatado;Higiene;64.8;Marca_2
+4;Açúcar;Limpeza;23.34;Marca_2
+5;Pão de forma – você pode ir a uma padaria para repor semanalmente;Limpeza;33.2;Marca_2
+6;Suco;Limpeza;80.41;Marca_3
+7;Adoçante;Outros;81.52;Marca_2
+8;Torradas;Frutas;63.03;Marca_3
+9;Geleia;Higiene;31.82;Marca_2
+10;Atum;Limpeza;75.01;Marca_3
+11;Creme de leite;Basicos;36.27;Marca_1
+12;Leite condensado;Bebidas;77.43;Marca_5
+13;Molho de tomate;Basicos;90.84;Marca_5
+14;Azeitonas;Doces;85.37;Marca_2
+15;Carne;Outros;42.57;Marca_5
+16;Frango;Frutas;31.37;Marca_3
+17;Iogurte;Outros;83.44;Marca_1
+18;Peixe;Outros;42.49;Marca_6
+19;Pratos congelados;Limpeza;69.89;Marca_5
+20;Leite;Basicos;32.5;Marca_3
+21;Queijos;Frutas;8.17;Marca_3
+22;Requeijão;Limpeza;48.72;Marca_5
+23;Manteiga;Limpeza;7.85;Marca_1
+24;Margarina;Doces;33.15;Marca_2
+25;Presunto;Basicos;80.86;Marca_6
+26;Agrião;Frutas;73.83;Marca_5
+27;Cebola;Higiene;34.24;Marca_5
+28;Batata;Frutas;8.11;Marca_4
+29;Alho;Outros;37.17;Marca_1
+30;Alface;Doces;48.96;Marca_4
+31;Brócolis;Outros;22.41;Marca_5
+32;Pimentão;Limpeza;47.64;Marca_4
+33;Tomate;Basicos;74.47;Marca_3
+34;Cenoura;Higiene;98.62;Marca_4
+35;Couve;Frutas;38.16;Marca_1
+36;Espinafre;Frutas;82.77;Marca_1
+37;Arroz;Outros;62.5;Marca_3
+38;Feijão;Outros;50.27;Marca_5
+39;Fermento;Higiene;43.89;Marca_6
+40;Azeite;Bebidas;39.06;Marca_2
+41;Farinha de trigo;Limpeza;38.73;Marca_5
+42;Ovos;Limpeza;19.81;Marca_4
+43;Pipoca;Higiene;94.9;Marca_5
+44;Farinha de mandioca;Frutas;63.71;Marca_3
+45;Massa;Doces;8.63;Marca_1
+46;Maisena;Doces;20.78;Marca_2
+47;Óleo;Higiene;44.27;Marca_5
+48;Queijo ralado;Doces;65.53;Marca_6
+49;Sal;Doces;14.99;Marca_3
+50;Temperos;Bebidas;93.38;Marca_1
+51;Vinagre;Limpeza;8.29;Marca_3
+52;Água sanitária;Doces;23.09;Marca_3
+53;Álcool;Bebidas;63.95;Marca_6
+54;Amaciante;Outros;29.15;Marca_1
+55;Cera;Bebidas;25.45;Marca_3
+56;Desinfetante;Basicos;58.03;Marca_5
+57;Limpa vidros;Bebidas;5.63;Marca_3
+58;Lustra-móveis;Basicos;13.75;Marca_2
+59;Multiuso;Doces;34.08;Marca_6
+60;Sabão;Bebidas;5.51;Marca_5
+61;Detergente;Outros;54.07;Marca_1
+62;Absorvente;Bebidas;49.63;Marca_3
+63;Algodão;Doces;71.1;Marca_1
+64;Acetona;Doces;75.07;Marca_3
+65;Lâmina de barbear;Bebidas;86.98;Marca_3
+66;Condicionador;Higiene;20.65;Marca_5
+67;Shampoo;Higiene;86.26;Marca_3
+68;Desodorante;Frutas;13.24;Marca_3
+69;Sabonete;Outros;53.28;Marca_1
+70;Papel higiênico;Frutas;10.15;Marca_2
+71;Cotonete;Bebidas;67.43;Marca_5
+72;Fio dental;Outros;98.96;Marca_3
+73;Creme dental;Limpeza;97.07;Marca_6
+74;Esponja;Bebidas;25.74;Marca_5
+75;Palha de aço;Higiene;62.22;Marca_3
+76;Saco de lixo;Basicos;84.34;Marca_5
+77;Filme plástico;Frutas;23.64;Marca_2
+78;Fósforos;Higiene;19.22;Marca_4
+79;Filtros para café;Frutas;84.2;Marca_5
+80;Guardanapos;Outros;35.81;Marca_6
+81;Papel alumínio;Limpeza;22.79;Marca_5
+82;Papel toalha;Bebidas;46.58;Marca_2
+83;Palitos de dente;Higiene;37.71;Marca_3
+84;Velas;Bebidas;30.83;Marca_5
+85;Bolachas;Basicos;17.11;Marca_6
+86;Pão de forma;Doces;29.77;Marca_2
+87;Pão francês;Outros;67;Marca_1
+88;Bolo;Doces;43.92;Marca_3
+89;Cravo da índia;Basicos;63.42;Marca_4
+90;Noz-moscada;Doces;34.44;Marca_1
+91;Bicarbonato de sódio;Outros;8.98;Marca_2
+92;Canela;Basicos;13.58;Marca_3
+93;Louro;Limpeza;70.6;Marca_6
+94;Pimenta;Bebidas;39.68;Marca_3
+95;Curry;Basicos;54.84;Marca_2

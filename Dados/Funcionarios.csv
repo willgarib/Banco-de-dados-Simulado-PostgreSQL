@@ -1,0 +1,41 @@
+id;cpf;nome;endereco;salario_base;setor;cargo;id_loja
+1;11468041134;Heitor;Rua Germano Vítor dos Santos;6157.04;Financeiro;Gerente;1
+2;42795871408;Joaquim;Rua Glucínio;2192.39;Financeiro;Assistente;1
+3;07754138018;Lara;Rua Nelson Ferreira;2221.47;Financeiro;Assistente;1
+4;68457925695;Bianca;Rua Clodomiro Pinheiro;2340.19;Financeiro;Assistente;1
+5;58390527871;João Miguel;Rua Emí­lio Retrosi;2042.49;Financeiro;Assistente;1
+6;75444268400;Cecília;Praça Antônio Pereira Martins;2427.39;Financeiro;Assistente;1
+7;47404645603;Matheus;Rua Comendador Assad Abdalla;2135.81;Estoquista;Assistente;1
+8;66627178354;Nicolas;Rua Ouro Verde;2261.95;Estoquista;Assistente;1
+9;79194097640;Lucca;Rua Casa da Boavista;2123.09;Estoquista;Assistente;1
+10;96040083158;Thiago;Rua John Redford;5399.52;RH;Gerente;1
+11;47051381121;Luiza;Avenida Nazaré;2216.38;RH;Assistente;1
+12;25392300162;Gustavo;Avenida Adelino Jorge Montenegro;2464.48;RH;Assistente;1
+13;38793008600;Vinicius;Rua Rynaldo Borgianni;5499.06;Caixa;Gerente;1
+14;87556147606;Francisco;Rua Arvore da Cera;3273.17;Caixa;Supervisor;2
+15;98977554039;Bruno;Rua Acioli Monteiro;3529.08;Caixa;Supervisor;3
+16;51687365725;Manuela;Rua Manuel Teles Vitancos;3122.14;Caixa;Supervisor;4
+17;23156590193;João Vitor;Rua Antônio Mariani;4333.31;Caixa;Supervisor;5
+18;20804538662;Emanuelly;Rua Tiburno;4373.77;Caixa;Supervisor;6
+19;49416421120;Miguel;Rua Venceslau José Bernardes;2255.28;Caixa;Assistente;1
+20;11731378157;Otávio;Avenida João Barreto de Menezes;2011.49;Caixa;Assistente;2
+21;03649531100;Daniel;Praça João Paulo Meira;2254.21;Caixa;Assistente;3
+22;19360003859;Valentina;Rua Rubens Mascarenhas;2326.9;Caixa;Assistente;4
+23;57877140673;Larissa;Viela Eurides da Silva Carvalho;2115.96;Caixa;Assistente;5
+24;43262837695;Cauã;Travessa Quatro de Setembro;1953.66;Caixa;Assistente;6
+25;57306094181;Ian;Rua Soldado José Reymão;2210.71;Caixa;Assistente;5
+26;81760401501;Mariana;Rua Cravo do Campo;2277.93;Caixa;Assistente;2
+27;85906383409;Gabriela;Travessa Tres Pingos Dagua;2379.77;Caixa;Assistente;4
+28;51667141058;Letícia;Rua Itacaranha;2465.55;Caixa;Assistente;3
+29;11674968175;Gabrielly;Rua Hercí­lio Luz;2007.28;Caixa;Assistente;2
+30;10529440270;Vitor;Rua Xororó;7734.94;Repositor;Gerente;1
+31;49794346497;Enzo Gabriel;Praça Monteiro Lobato;3783.99;Repositor;Supervisor;2
+32;71812275056;Emanuel;Rua Galatea;4367.64;Repositor;Supervisor;3
+33;19798424506;Isabella;Praça Madre Maria Josefina Villac;3847.12;Repositor;Supervisor;4
+34;89196166983;Ana Clara;Rua Banana-Branca;4095.27;Repositor;Supervisor;5
+35;74007011699;Rebeca;Rua Dominique Lagru;3027.84;Repositor;Supervisor;6
+36;11127989944;Lorenzo;Rua Nova Olinda do Norte;1707.18;Repositor;Assistente;2
+37;97247492074;Davi Lucas;Rua Paolo Porpora;2124.82;Repositor;Assistente;3
+38;23255831393;Melissa;Travessa Bom Jesus do Norte;1934.24;Repositor;Assistente;4
+39;88413125642;Ana Beatriz;Rua Paulo Bastide;2474.93;Repositor;Assistente;5
+40;78564657864;Pedro;Viaduto Guadalajara;2180.58;Repositor;Assistente;4
